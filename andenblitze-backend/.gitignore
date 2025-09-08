@@ -1,0 +1,16 @@
+# 🔐 Variables de entorno
+.env
+*.env
+
+# 📦 Dependencias
+/node_modules
+
+# ⚙️ Archivos de build / salida
+/dist
+/.vercel
+
+# 🗑️ Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
